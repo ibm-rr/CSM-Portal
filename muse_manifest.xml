@@ -1,0 +1,435 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="IBM_CSM_Portal_RR.com" resolutions="1x" timestamp="1659479855476">
+  <folder name="css">
+    <file name="site_global.css" crc="3877175521"/>
+    <file name="master_master_2.css" crc="4070959988" ref="index"/>
+    <file name="master_master_1.css" crc="37282912" ref="csm-detail:assessment:ibm-csm-portal:cp-entitlements:workshops:deployment-plan:engage:maturity:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="csm-detail.css" crc="50017370" ref="csm-detail"/>
+    <file name="assessment.css" crc="4256400890" ref="assessment"/>
+    <file name="ibm-csm-portal.css" crc="3991769192" ref="ibm-csm-portal"/>
+    <file name="cp-entitlements.css" crc="4061238001" ref="cp-entitlements"/>
+    <file name="workshops.css" crc="321961081" ref="workshops"/>
+    <file name="index.css" crc="192542574" ref="index"/>
+    <file name="deployment-plan.css" crc="3792420055" ref="deployment-plan"/>
+    <file name="engage.css" crc="89084563" ref="engage"/>
+    <file name="maturity.css" crc="186514697" ref="maturity"/>
+    <file name="install-base.css" crc="225277427" ref="install-base"/>
+    <file name="feeback.css" crc="3962353716" ref="feeback"/>
+    <file name="cp_feedback.css" crc="4090297210" ref="cp_feedback"/>
+    <file name="maturity-detail.css" crc="3962979258" ref="maturity-detail"/>
+  </folder>
+  <folder name="assets">
+    <file name="bbva-ela-catalog-v03.pdf" crc="150145901" seo="true" mt="1652732348000"/>
+    <file name="app-modernization-7-8-y-9-junio.pdf" crc="137505937" seo="true" mt="1652735876000"/>
+    <file name="cp4i-29-y-30-junio-clientes.pdf" crc="160792843" seo="true" mt="1652735906000"/>
+    <file name="datastage-workshop-invite-1.pdf" crc="4227870728" seo="true" mt="1652735969000"/>
+    <file name="cp4ba_filenet_workshop_lab.pdf" crc="472583508" seo="true" mt="1652736002000"/>
+    <file name="0_ocp_assessment_datasheet.pdf" crc="533455243" seo="true" mt="1652810672000"/>
+    <file name="0_cybersecurity_assessment_datasheet.pdf" crc="4185593264" seo="true" mt="1652810670000"/>
+    <file name="base-template-rsi.pdf" crc="4062527672" seo="true" mt="1657058948000"/>
+    <file name="qbr.png" crc="470621283" seo="true" mt="1657099149000"/>
+    <file name="rsi---reunión-anual.pdf" crc="4182832799" seo="true" mt="1657099739000"/>
+    <file name="ocaso---redhat-ocp-results_summary-v1.pptx" crc="330493013" seo="true" mt="1657101539000"/>
+    <file name="maturity-level.mp4" crc="3763553617" seo="true" mt="1657104454000"/>
+    <file name="deployment-maturity-level.png" crc="434942599" seo="true" mt="1657105549000"/>
+    <file name="agreed-plan.png" crc="441630935" seo="true" mt="1659306628000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="museutils.js" crc="3939489907" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="whatinput.js" crc="86476730" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="museconfig.js" crc="3936894949" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="jquery.watch.js" crc="522499760" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="webpro.js" crc="3856315280" ref="index:engage:feeback:maturity"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="engage:maturity"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="engage:maturity"/>
+    <file name="touchswipe.js" crc="3888935200" ref="engage:maturity"/>
+    <file name="html5shiv.js" crc="4241844378" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="require.js" crc="4177726516" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="form_check.php" crc="4108222811" ref="index:feeback"/>
+    <file name="form_throttle.php" crc="503802655" ref="index:feeback"/>
+    <file name="form_process.php" crc="260214869" ref="index:feeback"/>
+    <file name="form-u15232.php" crc="3943293820" ref="index"/>
+    <file name="form-u18933.php" crc="4061800100" ref="feeback"/>
+  </folder>
+  <folder name="images">
+    <file name="master_1-favicon.ico" crc="391973681" ref="ibm-csm-portal:assessment"/>
+    <file name="ibm-logo-black-and-white.png" crc="445579701" ref="ibm-csm-portal:index:assessment">
+      <caption webpage="maturity-detail" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+      <caption webpage="assessment" alt=""/>
+      <caption webpage="maturity" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="install-base" alt=""/>
+      <caption webpage="cp_feedback" alt=""/>
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="engage" alt=""/>
+    </file>
+    <file name="u133-4.png" crc="237387431" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u269-5.png" crc="3782421263" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u728-4.png" crc="80024935" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u758-4.png" crc="222568036" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u248-4.png" crc="206305789" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u227-4.png" crc="4282218339" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u206-5.png" crc="4021655778" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u549-4.png" crc="279806990" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u681-4.png" crc="189645146" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u660-4.png" crc="4245262667" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u639-4.png" crc="382890765" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u618-4.png" crc="305558065" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="4801315_glass_magnifier_magnifying_search_searching_icon.svg" crc="4030577851" ref="ibm-csm-portal:assessment"/>
+    <file name="4801315_glass_magnifier_magnifying_search_searching_icon_poster_u997.png" crc="4135044460" ref="ibm-csm-portal:assessment"/>
+    <file name="9054995_bx_user_icon (1).svg" crc="4003645911" ref="ibm-csm-portal:assessment"/>
+    <file name="9054995_bx_user_icon (1)_poster_u981.png" crc="273209896" ref="ibm-csm-portal:assessment"/>
+    <file name="352539_menu_icon.svg" crc="4062668015" ref="ibm-csm-portal:assessment"/>
+    <file name="352539_menu_icon_poster_u1591.png" crc="4204733181" ref="ibm-csm-portal:assessment"/>
+    <file name="jorge.jpg" crc="4281476387" ref="csm-detail">
+      <caption webpage="engage" alt=""/>
+      <caption webpage="install-base" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+      <caption webpage="csm-detail" alt=""/>
+      <caption webpage="pendiente" alt=""/>
+      <caption webpage="maturity" alt=""/>
+    </file>
+    <file name="u1648-4.png" crc="479027398" ref="ibm-csm-portal"/>
+    <file name="u1649-6.png" crc="3918130219" ref="ibm-csm-portal"/>
+    <file name="blank.gif" crc="4208392903" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u2251.png" crc="3889233987" ref="ibm-csm-portal"/>
+    <file name="u2251-r.png" crc="3889233987" ref="ibm-csm-portal"/>
+    <file name="8111413_rightlinearrow_right_arrow_direction_arrows_icon.svg" crc="348745649" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="8111413_rightlinearrow_right_arrow_direction_arrows_icon_poster_u3388.png" crc="4222284636" ref="ibm-csm-portal:csm-detail:index:cp-entitlements:assessment:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="rsi.jpg" crc="174966642" ref="ibm-csm-portal:maturity:engage:install-base">
+      <caption webpage="engage" alt=""/>
+      <caption webpage="install-base" alt=""/>
+      <caption webpage="pendiente" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+      <caption webpage="maturity" alt=""/>
+    </file>
+    <file name="u17134-4.png" crc="468608270" ref="ibm-csm-portal"/>
+    <file name="captura de pantalla 2022-05-15 012010.jpg" crc="274781108" ref="ibm-csm-portal:maturity"/>
+    <file name="8111413_rightlinearrow_right_arrow_direction_arrows_icon (1).svg" crc="203202003" ref="ibm-csm-portal:maturity:engage:install-base"/>
+    <file name="8111413_rightlinearrow_right_arrow_direction_arrows_icon (1)_poster_u14845.png" crc="3814312812" ref="ibm-csm-portal:maturity:engage:install-base"/>
+    <file name="4.jpg" crc="3926756160" ref="ibm-csm-portal:maturity:engage:install-base">
+      <caption webpage="engage" alt=""/>
+      <caption webpage="install-base" alt=""/>
+      <caption webpage="pendiente" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+      <caption webpage="maturity" alt=""/>
+    </file>
+    <file name="6137918_extension_file_format_pdf_document_icon.svg" crc="3942760163" ref="ibm-csm-portal:maturity:install-base"/>
+    <file name="6137918_extension_file_format_pdf_document_icon_poster_u15411.png" crc="490628463" ref="ibm-csm-portal:maturity:install-base"/>
+    <file name="3.jpg" crc="414429375" ref="ibm-csm-portal:maturity:engage:install-base">
+      <caption webpage="engage" alt=""/>
+      <caption webpage="install-base" alt=""/>
+      <caption webpage="pendiente" alt=""/>
+      <caption webpage="ibm-csm-portal" alt=""/>
+      <caption webpage="maturity" alt=""/>
+    </file>
+    <file name="u15842-4.png" crc="3890583760" ref="ibm-csm-portal"/>
+    <file name="u15852-4.png" crc="80277883" ref="ibm-csm-portal"/>
+    <file name="u15870-4.png" crc="4115988730" ref="ibm-csm-portal"/>
+    <file name="u15885.png" crc="4007467419" ref="ibm-csm-portal"/>
+    <file name="u15885-r.png" crc="4007467419" ref="ibm-csm-portal"/>
+    <file name="u15994-4.png" crc="424388871" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="211687_down_arrow_icon (3).svg" crc="3876355807" ref="ibm-csm-portal:assessment"/>
+    <file name="211687_down_arrow_icon (3)_poster_u15504.png" crc="4066467145" ref="ibm-csm-portal:assessment"/>
+    <file name="u15987_states.png" crc="84275331" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u15987_states-r.png" crc="84275331" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u15988_states.png" crc="4153849372" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u15988_states-r.png" crc="4153849372" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u15989_states.png" crc="530146347" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u15989_states-r.png" crc="530146347" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u15990_states.png" crc="4129301068" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u15990_states-r.png" crc="4129301068" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u15991_states.png" crc="3997564961" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u15991_states-r.png" crc="3997564961" ref="ibm-csm-portal:csm-detail:cp-entitlements:assessment:deployment-plan:workshops:maturity:engage:install-base:feeback:cp_feedback:maturity-detail"/>
+    <file name="u16289-6.png" crc="316491126" ref="csm-detail"/>
+    <file name="u16343-4.png" crc="3991280983" ref="csm-detail"/>
+    <file name="u16215-7.png" crc="474764871" ref="csm-detail"/>
+    <file name="u16218-5.png" crc="4006421397" ref="csm-detail"/>
+    <file name="u16225-4.png" crc="103545910" ref="csm-detail"/>
+    <file name="u16223.png" crc="297055759" ref="csm-detail"/>
+    <file name="u16223-r.png" crc="297055759" ref="csm-detail"/>
+    <file name="9045489_user_certification_icon.svg" crc="334095594" ref="csm-detail"/>
+    <file name="9045489_user_certification_icon_poster_u16248.png" crc="49309048" ref="csm-detail"/>
+    <file name="3209308_customer_experience_human_mind_state_icon.svg" crc="417792739" ref="csm-detail"/>
+    <file name="3209308_customer_experience_human_mind_state_icon_poster_u16262.png" crc="105880668" ref="csm-detail"/>
+    <file name="5282542_linkedin_network_social network_linkedin logo_icon.svg" crc="444196752" ref="csm-detail"/>
+    <file name="5282542_linkedin_network_social network_linkedin logo_icon_poster_u16270.png" crc="3934959192" ref="csm-detail"/>
+    <file name="1469738_contact_email_envelope_inbox_mail_icon.svg" crc="165006945" ref="csm-detail"/>
+    <file name="1469738_contact_email_envelope_inbox_mail_icon_poster_u16281.png" crc="3938991810" ref="csm-detail"/>
+    <file name="u16292-4.png" crc="3761578931" ref="csm-detail"/>
+    <file name="u16295-4.png" crc="530809784" ref="csm-detail"/>
+    <file name="u16301-4.png" crc="491762388" ref="csm-detail"/>
+    <file name="u16304-4.png" crc="139915178" ref="csm-detail"/>
+    <file name="u15220-4.png" crc="3886052389" ref="index"/>
+    <file name="descarga.jpg" crc="268417237" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8680019_shield_user_line_icon.svg" crc="3934409432" ref="index"/>
+    <file name="8680019_shield_user_line_icon_poster_u15363.png" crc="209685933" ref="index"/>
+    <file name="u15226-6.png" crc="234840440" ref="index"/>
+    <file name="u15383-6.png" crc="100184337" ref="index"/>
+    <file name="u15346-4.png" crc="4069929354" ref="index"/>
+    <file name="211687_down_arrow_icon (2).svg" crc="232306679" ref="index"/>
+    <file name="211687_down_arrow_icon (2)_poster_u15355.png" crc="292075352" ref="index"/>
+    <file name="u15371-5.png" crc="4126893382" ref="index"/>
+    <file name="u15375.png" crc="4074076668" ref="index"/>
+    <file name="u15375-r.png" crc="4074076668" ref="index"/>
+    <file name="u15386-4.png" crc="4256783692" ref="index"/>
+    <file name="u16699-3.png" crc="282892626" ref="cp-entitlements"/>
+    <file name="u16735-4.png" crc="3844241567" ref="cp-entitlements"/>
+    <file name="u16741-4.png" crc="34062581" ref="cp-entitlements"/>
+    <file name="u16744-4.png" crc="165959747" ref="cp-entitlements"/>
+    <file name="u16747-4.png" crc="439869100" ref="cp-entitlements"/>
+    <file name="u16723-3.png" crc="282892626" ref="cp-entitlements"/>
+    <file name="u16738-4.png" crc="3960507000" ref="cp-entitlements"/>
+    <file name="u16750-4.png" crc="147946482" ref="cp-entitlements"/>
+    <file name="u16753-4.png" crc="230158767" ref="cp-entitlements"/>
+    <file name="u16756-4.png" crc="353635221" ref="cp-entitlements"/>
+    <file name="5.jpg" crc="3865150575" ref="cp-entitlements">
+      <caption webpage="cp-entitlements" alt=""/>
+    </file>
+    <file name="6.svg" crc="490395943" ref="cp-entitlements"/>
+    <file name="6_poster_u16658.png" crc="4152143394" ref="cp-entitlements"/>
+    <file name="7.jpg" crc="4226158893" ref="cp-entitlements">
+      <caption webpage="cp-entitlements" alt=""/>
+    </file>
+    <file name="8.svg" crc="200070100" ref="cp-entitlements"/>
+    <file name="8_poster_u16674.png" crc="4206846500" ref="cp-entitlements"/>
+    <file name="9.svg" crc="4102385999" ref="cp-entitlements"/>
+    <file name="9_poster_u16682.png" crc="167129394" ref="cp-entitlements"/>
+    <file name="u16763-4.png" crc="486377583" ref="cp-entitlements"/>
+    <file name="u16761.png" crc="2249507" ref="cp-entitlements"/>
+    <file name="u16761-r.png" crc="2249507" ref="cp-entitlements"/>
+    <file name="u16982.png" crc="246768124" ref="assessment"/>
+    <file name="u16982-r.png" crc="246768124" ref="assessment"/>
+    <file name="u1645-8.png" crc="3970998343" ref="ibm-csm-portal"/>
+    <file name="u17172-8.png" crc="461399130" ref="ibm-csm-portal"/>
+    <file name="u17131-8.png" crc="3982999727" ref="ibm-csm-portal"/>
+    <file name="u17576-8.png" crc="3970998343" ref="maturity"/>
+    <file name="u17543-4.png" crc="479027398" ref="maturity"/>
+    <file name="u17574-6.png" crc="3918130219" ref="maturity"/>
+    <file name="u17573.png" crc="3889233987" ref="maturity"/>
+    <file name="u17573-r.png" crc="3889233987" ref="maturity"/>
+    <file name="u17510-8.png" crc="461399130" ref="maturity"/>
+    <file name="u17503-4.png" crc="468608270" ref="maturity"/>
+    <file name="u17544-8.png" crc="3982999727" ref="maturity"/>
+    <file name="u17536-4.png" crc="3890583760" ref="maturity"/>
+    <file name="u17567-4.png" crc="80277883" ref="maturity"/>
+    <file name="u17568-4.png" crc="4115988730" ref="maturity"/>
+    <file name="u17505.png" crc="4007467419" ref="maturity"/>
+    <file name="u17505-r.png" crc="4007467419" ref="maturity"/>
+    <file name="u17757-8.png" crc="3970998343" ref="engage"/>
+    <file name="u17724-4.png" crc="479027398" ref="engage"/>
+    <file name="u17755-6.png" crc="3918130219" ref="engage"/>
+    <file name="u17754.png" crc="3889233987" ref="engage"/>
+    <file name="u17754-r.png" crc="3889233987" ref="engage"/>
+    <file name="u17691-8.png" crc="461399130" ref="engage"/>
+    <file name="u17684-4.png" crc="468608270" ref="engage"/>
+    <file name="u17725-8.png" crc="3982999727" ref="engage"/>
+    <file name="u17717-4.png" crc="3890583760" ref="engage"/>
+    <file name="u17748-4.png" crc="80277883" ref="engage"/>
+    <file name="u17749-4.png" crc="4115988730" ref="engage"/>
+    <file name="u17686.png" crc="4007467419" ref="engage"/>
+    <file name="u17686-r.png" crc="4007467419" ref="engage"/>
+    <file name="u17938-8.png" crc="3970998343" ref="install-base"/>
+    <file name="u17905-4.png" crc="479027398" ref="install-base"/>
+    <file name="u17936-6.png" crc="3918130219" ref="install-base"/>
+    <file name="u17935.png" crc="3889233987" ref="install-base"/>
+    <file name="u17935-r.png" crc="3889233987" ref="install-base"/>
+    <file name="u17872-8.png" crc="461399130" ref="install-base"/>
+    <file name="u17865-4.png" crc="468608270" ref="install-base"/>
+    <file name="u17906-8.png" crc="3982999727" ref="install-base"/>
+    <file name="u17898-4.png" crc="3890583760" ref="install-base"/>
+    <file name="u17929-4.png" crc="80277883" ref="install-base"/>
+    <file name="u17930-4.png" crc="4115988730" ref="install-base"/>
+    <file name="u17867.png" crc="4007467419" ref="install-base"/>
+    <file name="u17867-r.png" crc="4007467419" ref="install-base"/>
+    <file name="u17969-4.png" crc="3996876113" ref="install-base"/>
+    <file name="u17972-4.png" crc="342318474" ref="install-base"/>
+    <file name="u17978-4.png" crc="374538944" ref="install-base"/>
+    <file name="u17945-4.png" crc="161415921" ref="install-base"/>
+    <file name="u18058-4.png" crc="103855547" ref="feeback"/>
+    <file name="star.png" crc="184196654" ref="feeback">
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feeback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+    </file>
+    <file name="u18055-4.png" crc="120962186" ref="feeback"/>
+    <file name="u18029.png" crc="3914599093" ref="feeback"/>
+    <file name="u18029-r.png" crc="3914599093" ref="feeback"/>
+    <file name="u18083-4.png" crc="308806035" ref="engage"/>
+    <file name="u18069-4.png" crc="3945908680" ref="engage"/>
+    <file name="u18075-4.png" crc="491669495" ref="engage"/>
+    <file name="u18096-4.png" crc="3815254296" ref="maturity"/>
+    <file name="u18094-4.png" crc="4059157562" ref="maturity"/>
+    <file name="jorge-u17146-fr.jpg" crc="283834170" ref="ibm-csm-portal:install-base"/>
+    <file name="cp4data.svg" crc="490395943" ref="assessment:workshops:engage:cp_feedback:maturity"/>
+    <file name="icp4automation.svg" crc="200070100" ref="assessment:workshops:engage:cp_feedback:maturity"/>
+    <file name="icp4integration.svg" crc="4102385999" ref="workshops:engage:cp_feedback"/>
+    <file name="u18204-4.png" crc="149967981" ref="assessment"/>
+    <file name="u18320-5.png" crc="400736058" ref="assessment"/>
+    <file name="watson.png" crc="4098325183" ref="cp_feedback">
+      <caption webpage="cp_feedback" alt=""/>
+      <caption webpage="assessment" alt=""/>
+      <caption webpage="workshops" alt=""/>
+      <caption webpage="engage" alt=""/>
+      <caption webpage="engage" alt=""/>
+    </file>
+    <file name="u18238-4.png" crc="4290928641" ref="assessment"/>
+    <file name="ibm-security-icon.png" crc="3796759781" ref="cp_feedback">
+      <caption webpage="cp_feedback" alt=""/>
+      <caption webpage="assessment" alt=""/>
+      <caption webpage="workshops" alt=""/>
+      <caption webpage="engage" alt=""/>
+      <caption webpage="engage" alt=""/>
+    </file>
+    <file name="u18247-4.png" crc="3781984322" ref="assessment"/>
+    <file name="cp4data_poster_u18296.png" crc="4152143394" ref="assessment:workshops:engage:cp_feedback:maturity"/>
+    <file name="u18256-4.png" crc="138341715" ref="assessment"/>
+    <file name="icp4automation_poster_u18304.png" crc="4206846500" ref="assessment:workshops:engage:cp_feedback:maturity"/>
+    <file name="u18265-4.png" crc="394208045" ref="assessment"/>
+    <file name="icp4integration_poster_u18312.png" crc="167129394" ref="workshops:engage:cp_feedback"/>
+    <file name="u18379-4.png" crc="4213259231" ref="engage"/>
+    <file name="u18375-5.png" crc="121395967" ref="workshops"/>
+    <file name="u18367.png" crc="246768124" ref="workshops"/>
+    <file name="u18367-r.png" crc="246768124" ref="workshops"/>
+    <file name="u18357-4.png" crc="3970496819" ref="workshops"/>
+    <file name="u18365-4.png" crc="4156492962" ref="workshops"/>
+    <file name="u18376-4.png" crc="4219177241" ref="workshops"/>
+    <file name="u18358-4.png" crc="371714497" ref="workshops"/>
+    <file name="u18369-4.png" crc="3973813498" ref="workshops"/>
+    <file name="u18533-5.png" crc="3929364359" ref="engage"/>
+    <file name="u18517-4.png" crc="4206524678" ref="engage"/>
+    <file name="u18523-4.png" crc="4039496651" ref="engage"/>
+    <file name="u18529-4.png" crc="508961933" ref="engage"/>
+    <file name="u18520-4.png" crc="161670170" ref="engage"/>
+    <file name="u18526-4.png" crc="190000787" ref="engage"/>
+    <file name="u18532-4.png" crc="103884909" ref="engage"/>
+    <file name="u18442-4.png" crc="4206524678" ref="engage"/>
+    <file name="u18448-4.png" crc="4039496651" ref="engage"/>
+    <file name="u18454-4.png" crc="508961933" ref="engage"/>
+    <file name="u18445-4.png" crc="161670170" ref="engage"/>
+    <file name="u18451-4.png" crc="190000787" ref="engage"/>
+    <file name="u18457-4.png" crc="4005754411" ref="engage"/>
+    <file name="watson-u18237-fr.png" crc="3800773863" ref="assessment:maturity:engage:workshops"/>
+    <file name="ibm-security-icon-u18246-fr.png" crc="3907245643" ref="assessment:maturity:engage:workshops"/>
+    <file name="u18605-7.png" crc="26376683" ref="cp_feedback"/>
+    <file name="u18611.png" crc="246768124" ref="cp_feedback"/>
+    <file name="u18611-r.png" crc="246768124" ref="cp_feedback"/>
+    <file name="u18699-4.png" crc="271992503" ref="cp_feedback"/>
+    <file name="u18711-4.png" crc="3897831939" ref="cp_feedback"/>
+    <file name="u18703-4.png" crc="4106800311" ref="cp_feedback"/>
+    <file name="u18723-4.png" crc="3878580408" ref="cp_feedback"/>
+    <file name="u18726-4.png" crc="4263388869" ref="cp_feedback"/>
+    <file name="u18744-7.png" crc="4236276454" ref="feeback"/>
+    <file name="u18828-4.png" crc="149729730" ref="cp_feedback"/>
+    <file name="u18822-4.png" crc="3857461123" ref="cp_feedback"/>
+    <file name="u18755-4.png" crc="3818939449" ref="cp_feedback"/>
+    <file name="u18924-4.png" crc="3783124553" ref="cp_feedback"/>
+    <file name="u18927-4.png" crc="4087863793" ref="cp_feedback"/>
+    <file name="u18757-4.png" crc="34062581" ref="cp_feedback"/>
+    <file name="star-u18852-fr.png" crc="241257274" ref="cp_feedback"/>
+    <file name="u18906-4.png" crc="4134762168" ref="cp_feedback"/>
+    <file name="u18758-4.png" crc="165959747" ref="cp_feedback"/>
+    <file name="u18912-4.png" crc="4134762168" ref="cp_feedback"/>
+    <file name="u18759-4.png" crc="4020526353" ref="cp_feedback"/>
+    <file name="u18915-4.png" crc="3956711289" ref="cp_feedback"/>
+    <file name="u19065-4.png" crc="4052348632" ref="engage"/>
+    <file name="ocp.png" crc="290336281" ref="assessment:engage:workshops:maturity">
+      <caption webpage="maturity" alt=""/>
+      <caption webpage="assessment" alt=""/>
+      <caption webpage="workshops" alt=""/>
+      <caption webpage="engage" alt=""/>
+      <caption webpage="engage" alt=""/>
+    </file>
+    <file name="u19103-4.png" crc="297193937" ref="assessment"/>
+    <file name="instana.png" crc="4231485298" ref="assessment:engage:maturity">
+      <caption webpage="maturity" alt=""/>
+      <caption webpage="assessment" alt=""/>
+      <caption webpage="engage" alt=""/>
+    </file>
+    <file name="u19096-4.png" crc="89714775" ref="assessment"/>
+    <file name="u19109-4.png" crc="4205960807" ref="engage"/>
+    <file name="u18578-7.png" crc="331096122" ref="engage"/>
+    <file name="u19115-4.png" crc="120624709" ref="engage"/>
+    <file name="u19112-4.png" crc="75337633" ref="workshops"/>
+    <file name="u19142-5.png" crc="4131442918" ref="maturity-detail"/>
+    <file name="u19148.png" crc="246768124" ref="maturity-detail"/>
+    <file name="u19148-r.png" crc="246768124" ref="maturity-detail"/>
+    <file name="u19244-4.png" crc="3872680206" ref="maturity-detail"/>
+    <file name="u19250-4.png" crc="3936357714" ref="maturity-detail"/>
+    <file name="application_modernization.jpg" crc="89192284" ref="workshops">
+      <caption webpage="workshops" alt=""/>
+      <caption webpage="maturity-detail" alt=""/>
+    </file>
+    <file name="u19280-4.png" crc="249462908" ref="workshops"/>
+    <file name="gif_client_center.gif" crc="260245198" ref="workshops">
+      <caption webpage="workshops" alt=""/>
+    </file>
+    <file name="u19309.png" crc="59884810" ref="workshops"/>
+    <file name="u19309-r.png" crc="59884810" ref="workshops"/>
+    <file name="u19317-4.png" crc="4098467879" ref="assessment"/>
+    <file name="cloud_banner.jpg" crc="196423444" ref="assessment">
+      <caption webpage="assessment" alt=""/>
+    </file>
+    <file name="jorge-u17512-fr.jpg" crc="283834170" ref="maturity:engage"/>
+    <file name="u19488-5.png" crc="4227652548" ref="maturity"/>
+    <file name="u19493-4.png" crc="4205960807" ref="maturity"/>
+    <file name="u19483-4.png" crc="3836593638" ref="maturity"/>
+    <file name="bell.png" crc="498809971" ref="maturity">
+      <caption webpage="maturity" alt=""/>
+    </file>
+    <file name="u19486-4.png" crc="161670170" ref="maturity"/>
+    <file name="u19484-4.png" crc="4039496651" ref="maturity"/>
+    <file name="u19482-4.png" crc="190000787" ref="maturity"/>
+    <file name="u19489-4.png" crc="508961933" ref="maturity"/>
+    <file name="u19485-4.png" crc="103884909" ref="maturity"/>
+    <file name="u19469-4.png" crc="4098467879" ref="feeback"/>
+    <file name="u19410-4.png" crc="3818919461" ref="maturity-detail"/>
+    <file name="u19344-4.png" crc="4098467879" ref="maturity-detail"/>
+    <file name="datacharts.jpg" crc="224892092" ref="maturity-detail">
+      <caption webpage="maturity-detail" alt=""/>
+    </file>
+    <file name="bacharts.jpg" crc="4049731738" ref="maturity-detail">
+      <caption webpage="maturity-detail" alt=""/>
+    </file>
+    <file name="chartall.gif" crc="3891362482" ref="maturity-detail">
+      <caption webpage="maturity-detail" alt=""/>
+    </file>
+    <file name="u19416-4.png" crc="495776732" ref="maturity-detail"/>
+  </folder>
+  <file name="ibm-csm-portal.html" crc="3883408928" seo="true" mt="1659441848980" redirect="true"/>
+  <file name="csm-detail.html" crc="4190822167" seo="true" mt="1659307182727" redirect="true"/>
+  <file name="index.html" crc="4293582960" seo="true" mt="1652808698532" redirect="true"/>
+  <file name="cp-entitlements.html" crc="4260503107" seo="true" mt="1659307182727" redirect="true"/>
+  <file name="assessment.html" crc="4194209940" seo="true" mt="1659472329832" redirect="true"/>
+  <file name="deployment-plan.html" crc="3947121710" seo="true" mt="1659307182727" redirect="true"/>
+  <file name="workshops.html" crc="4280064826" seo="true" mt="1659475262218" redirect="true"/>
+  <file name="maturity.html" crc="4039897223" seo="true" mt="1659479787296" redirect="true"/>
+  <file name="engage.html" crc="4036581724" seo="true" mt="1659471002315" redirect="true"/>
+  <file name="install-base.html" crc="21038476" seo="true" mt="1659441860424" redirect="true"/>
+  <file name="feeback.html" crc="3770716689" seo="true" mt="1659479211975" redirect="true"/>
+  <file name="cp_feedback.html" crc="379353442" seo="true" mt="1659307182727" redirect="true"/>
+  <file name="maturity-detail.html" crc="3795793007" seo="true" mt="1659478626996" redirect="true"/>
+</manifest>
